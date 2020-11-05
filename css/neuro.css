@@ -22,3 +22,6 @@
 .welcome {
     background: linear-gradient(-60deg, #0000ff, #e73c7e,#ffffff) !important;
 }
+input{
+    color: black !important;
+}
