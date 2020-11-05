@@ -3,14 +3,22 @@
 }
 .header-text-title,.header-text-description{
     text-shadow: 1px 1px 1px #000000 !important;
-}
 
+}
+.header-text-title{
+    font-size: 4.5rem !important;
+}
+.header-text-description{
+    font-size: 2.0rem !important;
+    text-align: center !important;
+    display: block !important;
+}
 .watermark{
-background-image: url("https://res.cloudinary.com/neuro-institute/image/upload/v1604563164/logo.png") !important;
-max-width: 140px !important;
-max-height: 70px !important;
+    background-image: url("https://res.cloudinary.com/neuro-institute/image/upload/v1604563164/logo.png") !important;
+    max-width: 140px !important;
+    max-height: 70px !important;
 }
 
 .welcome {
-    background: linear-gradient(-60deg, #ee7752, #e73c7e,tomato, #ffff00,#ffffff, #ffffff) !important;
+    background: linear-gradient(-60deg, #0000ff, #e73c7e,#ffffff) !important;
 }
