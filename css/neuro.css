@@ -1,4 +1,7 @@
-*{color:#000 !important;}
+*{
+    color:white !important;
+    text-shadow: 1px 1px 1px #000000 !important;
+}
 
 .watermark{
 background-image: url("https://res.cloudinary.com/neuro-institute/image/upload/v1604563164/logo.png") !important;
@@ -9,8 +12,10 @@ max-height: 70px !important;
 .welcome {
     background: linear-gradient(-60deg, #ee7752, #e73c7e,tomato, #ffff00,#ffffff, #ffffff) !important;
     animation: gradient 25s ease infinite !important;
+    -moz-animation: gradient 25s ease infinite !important;; /* Firefox */
+    -webkit-animation: gradient 25s ease infinite !important;; /* Safari and Chrome */
+    -o-animation: gradient 25s ease infinite !important;; /* Opera */
     background-size: 400% 400% !important;
-    animation: gradient 15s ease infinite !important;
 }
 @keyframes gradient {
     0% {
