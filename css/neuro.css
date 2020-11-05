@@ -5,3 +5,19 @@ background-image: url("https://res.cloudinary.com/neuro-institute/image/upload/v
 max-width: 140px !important;
 max-height: 70px !important;
 }
+
+.welcome {
+    background: linear-gradient(-60deg, #ee7752, #e73c7e,tomato, #ffff00,#ffffff, #ffffff) !important;
+    animation: gradient 25s ease infinite;
+}
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
