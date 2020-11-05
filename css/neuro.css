@@ -8,7 +8,9 @@ max-height: 70px !important;
 
 .welcome {
     background: linear-gradient(-60deg, #ee7752, #e73c7e,tomato, #ffff00,#ffffff, #ffffff) !important;
-    animation: gradient 25s ease infinite;
+    animation: gradient 25s ease infinite !important;
+    background-size: 400% 400% !important;
+    animation: gradient 15s ease infinite !important;
 }
 @keyframes gradient {
     0% {
