@@ -329,7 +329,7 @@
         "answer": "Contestar",
         "audioCallTitle": "Llamada entrante",
         "decline": "Descartar",
-        "productLabel": "de Jitsi Meet",
+        "productLabel": "de Neuro Meet",
         "videoCallTitle": "Llamada de vídeo"
     },
     "info": {
@@ -486,7 +486,7 @@
         "newDeviceAudioTitle": "Se ha detectado un nuevo dispositivo de audio",
         "newDeviceAction": "Usar",
         "OldElectronAPPTitle": "Vulnerabilidades de Seguridad!",
-        "oldElectronClientDescription1": "Aparentemente usted está usuado una versión antigua de Jitsi Meet que tiene problemas de seguridad. Por favor actualice la versión con nuestra ",
+        "oldElectronClientDescription1": "Aparentemente usted está usuado una versión antigua de Neuro Meet que tiene problemas de seguridad. Por favor actualice la versión con nuestra ",
         "oldElectronClientDescription2": "ultima versión",
         "oldElectronClientDescription3": " ahora!"
     },
